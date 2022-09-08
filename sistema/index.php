@@ -13,7 +13,7 @@
     <p>Cargo: <input type="text" name="cargo"></p>
     <p>Salário: <input type="number" name="sal"></p>
     <p>Depedentes: <input type="number" name="depen"></p>
-    <buttton type="submit">Cadastrar</button>
+    <button type="submit">Cadastrar</button>
   </form>  
 </body>
 </html>
