@@ -10,8 +10,3 @@
   }
   fclose($file);
 ?>
-// validar formulário
-// gravar infos do formulário no arquivo
-// usar o scandir/ver documentação para listar os nomes dos arquivos criados
-// criar automaticamente links que possam levar o arquivo
-// readinfo.php de modo que cada link passe via GET o id/nome que deve ser lido
